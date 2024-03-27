@@ -18,6 +18,7 @@ st.markdown("""
 
 -email: qianq826@uw.edu
 -cellphone: 9735211660
+-address: Bellevue
 
 """)
 
