@@ -8,8 +8,9 @@ st.image('./images/me.jpg')
 st.header("about me")
 st.markdown("""
 
-- school: UW
+- gschool: UW
 - major: MSTI
+- gender: male
 
 """)
 
