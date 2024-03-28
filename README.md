@@ -18,9 +18,10 @@ app.py
 
 ## Lessons Learned
 
-How to use Streamlit to create a simple website
-How to use requirements.txt to manage Streamlit
-How to use GitHub Actions to deploy a website to Azure App Service
-Questions / Uncertainties
+- How to use Streamlit to create a simple website
+- How to use requirements.txt to manage Streamlit
+- How to use GitHub Actions to deploy a website to Azure App Service
 
-Do I need to reconnect the MS Azure for any changes made in github?
+## Questions / Uncertainties
+
+What does MS Azure do for this project?
